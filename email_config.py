@@ -5,7 +5,7 @@ For Gmail, APP_PASSWORD must be the 16-character Google App Password.
 """
 
 SENDER_EMAIL = "vaccination.reminder.project@gmail.com"
-APP_PASSWORD = "yncmvqlimhvzvmyg"
+APP_PASSWORD = "your app password"
 
 SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 587
