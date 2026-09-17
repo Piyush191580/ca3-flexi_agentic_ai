@@ -11,4 +11,4 @@ SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 587
 
 # Optional: used only by the Test Email button in the app.
-TEST_RECEIVER_EMAIL = "piyusha871@gmail.com"
+TEST_RECEIVER_EMAIL = "your mail"
